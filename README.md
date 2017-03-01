@@ -20,7 +20,7 @@ The goals / steps of this project are the following:
 [image5]: ./output_images/test2_hard_fitted.jpg "Fit Visual (Hard)"
 [image6]: ./output_images/test2_soft_fitted.jpg "Fit Visual (Soft)"
 [image7]: ./output_images/test2_result.jpg "Output"
-[video1]: ./project_video.mp4 "Video"
+[video1]: ./processed_project_video.mp4 "Video"
 
 
 ## [Rubric](https://review.udacity.com/#!/rubrics/571/view) Points
@@ -108,7 +108,7 @@ I implemented this step in cell 10 of the python notebook in the function `color
 
 ####1. Provide a link to your final video output.  Your pipeline should perform reasonably well on the entire project video (wobbly lines are ok but no catastrophic failures that would cause the car to drive off the road!).
 
-Here's a [link to my video result](./project_video.mp4)
+Here's a [link to my video result](./processed_project_video.mp4)
 
 ---
 
